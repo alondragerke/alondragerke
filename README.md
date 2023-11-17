@@ -1,5 +1,8 @@
-### Hi there 👋
+### ¡Hola! Soy Alondra :wave: 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alondragerke&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alondragerke/alondragerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
